@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "get_cotacoes",
+    "description": "Notebook to get quotes"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c61e9f75-14f2-4a94-87fb-7caf7bdf4680"
+  }
+}
